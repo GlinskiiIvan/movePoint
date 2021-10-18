@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\movePoint\bin\Debug\movePoint.exe.config
+C:\Users\user\source\repos\movePoint\bin\Debug\movePoint.exe
+C:\Users\user\source\repos\movePoint\bin\Debug\movePoint.pdb
+C:\Users\user\source\repos\movePoint\obj\Debug\movePoint.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\movePoint\obj\Debug\movePoint.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\movePoint\obj\Debug\movePoint.Form1.resources
+C:\Users\user\source\repos\movePoint\obj\Debug\movePoint.Properties.Resources.resources
+C:\Users\user\source\repos\movePoint\obj\Debug\movePoint.csproj.GenerateResource.cache
+C:\Users\user\source\repos\movePoint\obj\Debug\movePoint.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\movePoint\obj\Debug\movePoint.exe
+C:\Users\user\source\repos\movePoint\obj\Debug\movePoint.pdb
